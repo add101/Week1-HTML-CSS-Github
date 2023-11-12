@@ -31,3 +31,4 @@ The Acceptance Criteria for Challenge:
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
+Assets/01-html-css-git-challenge-demo.png
