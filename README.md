@@ -1,6 +1,7 @@
-# 01 HTML CSS Git: Code Refactor
+# Week 1 HTML CSS Git
+# Challenge 1: Code Refactor
 
-## Your Task
+## Task
 
 **Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
 
