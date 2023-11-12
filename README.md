@@ -23,7 +23,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Title elements contain a concise, descriptive title
 
 ### Adjustments made to HTML and CSS:
--Changed div with id=header to "<header>" tag for clearer semantic taggin. Same for id=footer to footer 
+-Changed div with id=header to \<header\> tag for clearer semantic taggin. Same for id=footer to footer 
 -CSS adjusted footer instead of .footer
 
 -Combined classes which had the same properties into one class, and adjusted tages in HTML
