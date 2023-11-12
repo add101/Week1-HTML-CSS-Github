@@ -1,4 +1,4 @@
-# Week 1 Challenge 1: Code Refactor
+# Week 1 Challenge 1: Code Refactoring
 
 ## Task
 
