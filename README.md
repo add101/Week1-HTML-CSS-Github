@@ -8,7 +8,8 @@ Refactor code example for accessibility, and semantics
 
 The Acceptance Criteria for Challenge:
 
-"* Semantic HTML elements can be found throughout the source code
+"
+* Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
