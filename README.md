@@ -13,7 +13,8 @@ The Acceptance Criteria for Challenge:
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title"
+* Title elements contain a concise, descriptive title
+"
 
 ### Adjustments made to HTML and CSS:
 -Changed div with id=header to \<header\> tag for clearer semantic taggin. Same for id=footer to \<footer\> 
