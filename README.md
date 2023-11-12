@@ -22,7 +22,15 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-### Key changes in refactoring:
+### Adjustments made to HTML and CSS:
+-Changed div with id=header to <header> tag for clearer semantic taggin. Same for id=footer to footer 
+-CSS adjusted footer instead of .footer
+
+-Combined classes which had the same properties into one class, and adjusted tages in HTML
+
+-Alt tags added to images
+
+-Added Title
 
 
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
