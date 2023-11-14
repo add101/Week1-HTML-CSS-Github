@@ -41,4 +41,7 @@ Keep your title elements short and sweet with a clear description.
 ### Screenshot of Example Page:
 
     ![screenshot of example webpage for assignment - webpage for marketing company](assets/01-html-css-git-challenge-demo.png)
+    01-html-css-git-challenge-demo.png
+
+    ![screenshot](assets/images/screenshot.png)
 
