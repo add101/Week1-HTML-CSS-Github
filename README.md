@@ -30,7 +30,14 @@ Keep your title elements short and sweet with a clear description.
 
 -Alt tags added to images (for accesibility, as well as SEO)
 
--Added Title
+-Added Title in <head> section
+
+-Deployed page to Github Pages
+
+### Deployed Page on Github Pages:
+Here is a link to page on Github Pages: (https://add101.github.io/Week1-HTML-CSS-Github/)
+
+
 
 ### Some Resources on Semantics and Refactoring CSS:
 * [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
