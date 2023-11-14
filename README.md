@@ -39,6 +39,7 @@ Here is a link to page on Github Pages: (https://add101.github.io/Week1-HTML-CSS
 * [Combining CSS Classes](https://www.youtube.com/watch?v=JxCQ1Jl75Ek))
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+* [Deploying page to Github Pages](https://www.youtube.com/watch?v=XGcuxuhV-Jg)
 
 ### Screenshot of Example Page:
 
