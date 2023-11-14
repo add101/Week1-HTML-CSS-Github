@@ -39,6 +39,6 @@ Keep your title elements short and sweet with a clear description.
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ### Screenshot of Example Page:
-```md
+
     ![screenshot of example webpage for assignment - webpage for marketing company](assets/01-html-css-git-challenge-demo.png)
-    ```
+
