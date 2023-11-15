@@ -41,10 +41,4 @@ Here is a link to page on Github Pages: (https://add101.github.io/Week1-HTML-CSS
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 * [Deploying page to Github Pages](https://www.youtube.com/watch?v=XGcuxuhV-Jg)
 
-### Screenshot of Example Page:
-
-    ![screenshot of example webpage for assignment - webpage for marketing company](assets/01-html-css-git-challenge-demo.png)
-    01-html-css-git-challenge-demo.png
-
-    ![screenshot](assets/images/screenshot.png)
 
